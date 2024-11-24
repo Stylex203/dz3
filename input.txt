@@ -1,0 +1,6 @@
+def port := 8080
+def workers := #(4 8 16)
+
+server: nginx
+port: @{port}
+workers: @{workers}
