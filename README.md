@@ -125,10 +125,10 @@ database:
 
 Запуск
 
-СКРИНШОТЫ СЮДА
+![изображение](https://github.com/user-attachments/assets/26c888c1-23e0-4353-b6f3-c4ffe630e350)
+
 
 ---
 
 Тестирование
-
-СКРИНШОТЫ СЮДА
+![изображение](https://github.com/user-attachments/assets/9d644e54-95ad-4fdb-9ae9-b4e3cd1d7f99)
